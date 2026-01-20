@@ -6,7 +6,6 @@ waiting time, admission trends, and department-wise performance.
 
 ## 🛠 Tools Used
 - Microsoft Excel (Data Cleaning & Preparation)
-- Power BI (Dashboard Creation & Visualization)
 
 ## 📁 Files in this Repository
 -hospital dashboard (Recovered).xlsx – Cleaned dataset and analysis
