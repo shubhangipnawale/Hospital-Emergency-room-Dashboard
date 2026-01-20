@@ -20,10 +20,8 @@ waiting time, admission trends, and department-wise performance.
 ## 📌 Objective
 To help hospital management improve emergency room efficiency and reduce patient waiting time.
 
-
-## 📸 Dashboard Screenshots
-![Hospital Emergency Dashboard]
-(hospital-dashboard.png)
+## 📊 Dashboard Preview
+![Hospital Emergency Dashboard](hospital-dashboard.png)
 
 ##📚 Learning Outcomes
 -Real-world healthcare data analysis
