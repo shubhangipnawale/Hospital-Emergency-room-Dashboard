@@ -22,7 +22,8 @@ To help hospital management improve emergency room efficiency and reduce patient
 
 
 ## 📸 Dashboard Screenshots
-![Hospital Emergency Dashboard](dashboard.png)
+![Hospital Emergency Dashboard]
+(hospital-dashboard.png)
 
 ##📚 Learning Outcomes
 -Real-world healthcare data analysis
